@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning `C++` and `OpenGL`
 - 📫 Reach me at Discord: `Ridhwan#5955`
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFuad) ![](https://github-readme-stats.vercel.app/api/?username=FahimFuad)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFuad) ![](https://github-readme-stats.vercel.app/api?username=fahimfuad&theme=react&show_icons=true)
