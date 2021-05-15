@@ -1,6 +1,5 @@
 ### Fahim Fuad (Ridhwan)
 
-- 🔭 I’m currently working on [RDX](https://github.com/FahimFuad/RDX)
 - 🌱 I’m currently learning graphics programming
 - 📫 Reach me at Discord: `[Ridhwan]#2547`
 
