@@ -13,8 +13,9 @@
 </p>
 
   <br/>
-<img alt="Rids Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FahimFuad&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
+<img alt="Rids Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FahimFuad&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+<br/><br/>
+  
 <p align="center">
     <strong>💻 My specs:<br>
     <strong>CPU: Ryzen 5 3600 XT<br>
