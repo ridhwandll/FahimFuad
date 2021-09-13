@@ -27,5 +27,5 @@
 </p>
       
 <p align="center">
-    <a href = "https://discord.gg/cpYjXSAa"><img src="https://img.shields.io/badge/-Discord-7289DA?&logoColor=white&logo=discord"/></a>
+    <a href = "https://discord.gg/kFcyut8ZvR"><img src="https://img.shields.io/badge/-Discord-7289DA?&logoColor=white&logo=discord"/></a>
 </p>
