@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    I am a Game Enigne and Graphics programmer!
+    A GameEnigne and Graphics programmer!
 </p>
       
 <p align="center">
