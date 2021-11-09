@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    A GameEnigne and Graphics programmer!
+    A GameEngine and Graphics programmer!
 </p>
       
 <p align="center">
