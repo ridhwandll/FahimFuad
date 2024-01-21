@@ -1,19 +1,12 @@
 <h3 align="center">
-  <strong>Hey! I am Rid!</strong>
+  Hey! I am **Rid**hwan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-    A GameEngine and Graphics programmer!
+    A Game Engine and Graphics **programmer**(not a coder)!
 </p>
       
-<p align="center">
-    <strong>🔥 Streak stats <br>
-    <img alt="Rids streak" src="https://github-readme-streak-stats.herokuapp.com?user=FahimFuad&theme=dark&hide_border=true"/>
-</p>
-
-  <br/>
-<img alt="Rids Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FahimFuad&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 <br/><br/>
   
 <p align="center">
